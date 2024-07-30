@@ -9,9 +9,7 @@ Key Features:
 
 
                                         Customer details page : 
-                                                               This page is filterout by customer name ,  page contain some visual like tables ,Tree map .
-
+ This page is filterout by customer name ,  page contain some visual like tables ,Tree map .
 Donut chart which shows data in percentage by different categories as salary , gender and occupation .
-
 Line and stacked column chart which shows Revenue and return order of each customer by different product category
 ![Screenshot 2024-07-29 131035](https://github.com/user-attachments/assets/6a1b8f92-0f56-4dd2-a582-c8611b5aeb0e)
